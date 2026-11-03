@@ -2,6 +2,7 @@
 
 **Cross Platform Mobile App Development — Practical Lab Test**  
 **Technologies:** Flutter, Cloud Firestore, GitHub  
+**GitHub Repository:** [https://github.com/sahoo999615/NET4207-Inventory](https://github.com/sahoo999615/NET4207-Inventory)
 
 ---
 
